@@ -11,7 +11,7 @@
 
 ___
 
-<p align="center">- Social Medias -</p>
+<p align="center"> Social Medias </p>
 
 ## 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/alexandrearraes5780/)
@@ -20,7 +20,7 @@ ___
 ___
 
 
-<h3 align="left">Focus ~</h3>
+<h3 align="left">Stack Intention</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
