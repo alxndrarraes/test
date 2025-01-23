@@ -11,7 +11,7 @@
 
 ___
 
-<h3 align="Left">Social Medias</p>
+<h3 align="Left">Social Medias</h3>
 
 ## 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/alexandrearraes5780/)
