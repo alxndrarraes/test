@@ -11,7 +11,7 @@
 
 ___
 
-<p align="center">Social Medias!</p>
+<p align="center">- Social Medias -</p>
 
 ## 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexandrearraes1)
