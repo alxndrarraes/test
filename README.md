@@ -14,10 +14,9 @@ ___
 <p align="center">- Social Medias -</p>
 
 ## 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexandrearraes1)
-[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alexandrearraes5780)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/alexandrearraes5780/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/alexandrearraes1/)
 <br><br>
-
 ___
 
 <picture align="center">
@@ -25,3 +24,4 @@ ___
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alxndrarraes//alxndrarraes//output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alxndrarraes//alxndrarraes//output/github-contribution-grid-snake.svg">
 </picture>
+
