@@ -1,4 +1,7 @@
-#                                                     -Welcome to my profile!-
+#                                                     Welcome to my profile!
+
+
+<p align="center">Description</p>
 
 - 🎓 I’m a Systems Information student at Unifacisa, passionate about technology and dedicated to continuous growth in the field. 💻
 - 💼 I work as a Commercial Manager at an IT company called Helio Filho Informática, in my city, combining practical experience with academic knowledge.
